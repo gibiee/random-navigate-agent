@@ -16,7 +16,8 @@
 
 
 ## 실행 화면
-![demo](./imgs/example.gif)
+<img src="./imgs/example.gif" width="50%" />
+
 - `map_size=5` 인 경우 약 10번 이내에 수렴됨.
 
 ## 실행 환경
