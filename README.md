@@ -24,9 +24,9 @@
 ## 실행 환경
 - python >= 3.6
 - argparse
-- os
 - random
-- time
+- time (for display)
+- os (for display)
 - numpy
 - pandas (for display)
 
