@@ -9,7 +9,8 @@
 - 맵에서 agent는 `◎`, 목적지는 `★`으로 표현됨.
 - 맵은 각 위치별로 0 ~ 1 사이의 값을 가지며, 이는 가치함수를 통한 기댓값(reward)으로 해석할 수 있음.
 - agent가 목적지에 도착한 경우, 지나온 경로에 대해 아래 수식을 통해 reward를 업데이트함.
-  - ![latex](./imgs/latex.png)
+  - <img src="./imgs/latex.png" width="50%" />
+  
     - V : value function
     - step : count of navigate route
     - γ : discount rate
